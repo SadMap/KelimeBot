@@ -20,7 +20,7 @@
   "dependencies": {
     "@keyv/sqlite": "^2.0.2",
     "discord.js": "^12.5.3",
-    "eslint": "^7.26.0",
+    "eslint": "^7.31.0",
     "keyv": "^4.0.3",
     "node-fetch": "^2.6.1",
     "os-utils": "0.0.14",
